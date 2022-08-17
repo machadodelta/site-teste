@@ -13,8 +13,16 @@ aside{
 footer{
     height: 150px;
     background-color:  rgb(25, 25, 30);
+    font-size: x-large;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 .nav{
     padding-top: 150px;
     padding-left: 145px;
+}
+#input{
+    width: 380px;
+    height: 40px;
 }
