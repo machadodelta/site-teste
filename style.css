@@ -3,11 +3,11 @@ header{
     background-color: rgb(25, 25, 30);
 }
 main{
-    height: 600px;
+    height: auto;
     background-color: rgb(75, 72, 77);
 }
 aside{
-    height: 600px;
+    height: auto;
     background-color:  rgb(48, 44, 44);
 }
 footer{
@@ -26,3 +26,5 @@ footer{
     width: 380px;
     height: 40px;
 }
+
+
