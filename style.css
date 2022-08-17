@@ -1,16 +1,20 @@
 header{
     height: 200px;
-    background-color: blue;
+    background-color: rgb(25, 25, 30);
 }
 main{
     height: 600px;
-    background-color: blueviolet;
+    background-color: rgb(75, 72, 77);
 }
 aside{
     height: 600px;
-    background-color: yellow;
+    background-color:  rgb(48, 44, 44);
 }
 footer{
     height: 150px;
-    background-color: aqua;
+    background-color:  rgb(25, 25, 30);
+}
+.nav{
+    padding-top: 150px;
+    padding-left: 145px;
 }
